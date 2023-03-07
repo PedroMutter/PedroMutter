@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Pedro Mutter<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">An aspiring full stack web developer!</h3>
 
-<!--
-**PedroMutter/PedroMutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul style="list-style: none;">
+<li>:seedling: I'm in constant learning</li>
+<li>:computer: I’m looking to collaborate projects that make use of <strong>JavaScript, TypeScript, React</strong></li>
+<li>:rocket: I'm looking for new projects and work opportunities</li>
+<li>:brazil: From Sâo Paulo, Brazil</li>
+<li>:mortar_board: Currently at the 9th semester of my bachelor's degree in computer engineering</li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h3>Contact Me :handshake:</h3>
+<a href="https://github.com/pedromutter" target="_blank"><img src="https://img.shields.io/badge/-Pedro_Mutter-black?logo=github&style=flat-square" alt="github"/></a>
+<a href="https://www.linkedin.com/in/pedromutter" target="_blank"><img src="https://img.shields.io/badge/-Pedro_Mutter-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="mailto:pedro.mutter1@gmail.com"><img src="https://img.shields.io/badge/-pedro.mutter1@gmail.com-white?logo=gmail&style=flat-square" alt="email"/></a>
+</div>
