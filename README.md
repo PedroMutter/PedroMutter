@@ -6,7 +6,7 @@
 <li>:computer: I’m looking to collaborate projects that make use of <strong>JavaScript, TypeScript, React</strong></li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 <li>:brazil: From São Paulo, Brazil</li>
-<li>:mortar_board: Currently at the 9th semester of my bachelor's degree in computer engineering</li>
+<li>:mortar_board: Currently at the final semester of my bachelor's degree in computer engineering</li>
 </ul>
 
 <div align="center">
