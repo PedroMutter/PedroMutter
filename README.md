@@ -3,7 +3,7 @@
 
 <ul style="list-style: none;">
 <li>:seedling: I'm in constant learning</li>
-<li>:computer: I’m looking to collaborate projects that make use of <strong>JavaScript, TypeScript, React</strong></li>
+<li>:computer: I’m looking to collaborate projects that make use of <strong>JavaScript, TypeScript, Go, Flutter, React and Vue.js</strong></li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 <li>:mortar_board: Bachelor in computer engineering</li>
 <li>:brazil: From São Paulo, Brazil</li>
